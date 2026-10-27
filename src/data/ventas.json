@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vta-9001",
+    "fecha": "23/10/2026, 10:15",
+    "nombreCliente": "María Fernanda Rojas",
+    "documentoCliente": "7845123 LP",
+    "metodoPago": "Efectivo",
+    "items": [
+      {
+        "medicamentoId": "med-101",
+        "nombreMedicamento": "Paracetamol 500 mg",
+        "presentacion": "Caja x 20 comprimidos",
+        "cantidad": 2,
+        "precioUnitario": 12.5,
+        "subtotal": 25.0
+      },
+      {
+        "medicamentoId": "med-106",
+        "nombreMedicamento": "Vitamina C + Zinc Efervescente",
+        "presentacion": "Tubo x 10 tabletas efervescentes",
+        "cantidad": 1,
+        "precioUnitario": 32.0,
+        "subtotal": 32.0
+      }
+    ],
+    "total": 57.0
+  },
+  {
+    "id": "vta-9002",
+    "fecha": "24/10/2026, 16:40",
+    "nombreCliente": "Carlos Eduardo Mendoza",
+    "documentoCliente": "5923814 CB",
+    "metodoPago": "QR Simple",
+    "items": [
+      {
+        "medicamentoId": "med-103",
+        "nombreMedicamento": "Ibuprofeno 400 mg",
+        "presentacion": "Caja x 20 cápsulas blandas",
+        "cantidad": 1,
+        "precioUnitario": 18.0,
+        "subtotal": 18.0
+      },
+      {
+        "medicamentoId": "med-105",
+        "nombreMedicamento": "Omeprazol 20 mg",
+        "presentacion": "Caja x 14 cápsulas gastrorresistentes",
+        "cantidad": 2,
+        "precioUnitario": 24.5,
+        "subtotal": 49.0
+      }
+    ],
+    "total": 67.0
+  },
+  {
+    "id": "vta-9003",
+    "fecha": "25/10/2026, 11:20",
+    "nombreCliente": "Ana Lucía Vargas",
+    "documentoCliente": "8310492 SC",
+    "metodoPago": "Tarjeta de Débito / Crédito",
+    "items": [
+      {
+        "medicamentoId": "med-102",
+        "nombreMedicamento": "Amoxicilina 500 mg",
+        "presentacion": "Caja x 21 cápsulas",
+        "cantidad": 1,
+        "precioUnitario": 38.0,
+        "subtotal": 38.0
+      }
+    ],
+    "total": 38.0
+  }
+]

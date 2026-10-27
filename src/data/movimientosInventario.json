@@ -1,0 +1,39 @@
+[
+  {
+    "id": "mov-501",
+    "fecha": "22/10/2026, 09:00",
+    "medicamentoId": "med-101",
+    "nombreMedicamento": "Paracetamol 500 mg",
+    "tipo": "Ingreso",
+    "cantidad": 50,
+    "stockAnterior": 37,
+    "stockNuevo": 87,
+    "lote": "LT-2026-089",
+    "observacion": "Reposición mensual de distribuidora Laboratorios Bagó."
+  },
+  {
+    "id": "mov-502",
+    "fecha": "23/10/2026, 10:15",
+    "medicamentoId": "med-101",
+    "nombreMedicamento": "Paracetamol 500 mg",
+    "tipo": "Salida por venta",
+    "cantidad": 2,
+    "stockAnterior": 87,
+    "stockNuevo": 85,
+    "lote": "LT-2026-089",
+    "observacion": "Pedido en línea #vta-9001"
+  },
+  {
+    "id": "mov-503",
+    "fecha": "25/10/2026, 11:20",
+    "medicamentoId": "med-102",
+    "nombreMedicamento": "Amoxicilina 500 mg",
+    "tipo": "Salida por venta",
+    "cantidad": 1,
+    "stockAnterior": 9,
+    "stockNuevo": 8,
+    "lote": "LT-2026-114",
+    "observacion": "Pedido en línea #vta-9003"
+  }
+]
+
